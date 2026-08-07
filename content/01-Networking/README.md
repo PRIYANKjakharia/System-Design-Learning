@@ -1,0 +1,29 @@
+# Phase 1 – Networking & Web Fundamentals
+
+- Computer Networks
+- OSI Model
+- TCP/IP Model
+- TCP
+- UDP
+- IP Address
+- Port Numbers
+- DNS
+- HTTP
+- HTTPS
+- HTTP Methods
+- HTTP Status Codes
+- HTTP Headers
+- Cookies
+- Sessions
+- TLS/SSL
+- DNS Resolution
+- HTTP Keep-Alive
+- HTTP/2
+- HTTP/3
+- REST
+- GraphQL
+- gRPC
+- WebSockets
+- Server-Sent Events (SSE)
+- Long Polling
+- CORS
